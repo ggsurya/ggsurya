@@ -17,6 +17,13 @@ I’m **GG Surya**, a passionate **B.Sc. Electronics student (2022–2025)** wit
 
 ---
 
+## 🚀 Currently Working On  
+- Building my **personal portfolio website** using React + Node.js  
+- Exploring **AI integration in full-stack projects**  
+- Working on **a new Python automation tool** for productivity
+
+---
+
 ## 🛠️ Skills  
 
 **Programming:** C, C++, Java, Python  
@@ -68,9 +75,9 @@ I’m **GG Surya**, a passionate **B.Sc. Electronics student (2022–2025)** wit
 
 ## 🌐 Connect with Me  
 
-📧 [Email](mailto:ggsuryaff@gmail.com)  
-🔗 [GitHub](https://github.com/ggsurya)  
-🔗 [LinkedIn](https://www.linkedin.com/in/g-g-surya-5aa9312b4)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ggsuryaff@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ggsurya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-g-surya-5aa9312b4)
 
 ---
 
