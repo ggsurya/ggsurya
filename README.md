@@ -1,64 +1,91 @@
-# Hi, I'm GG Surya 👋
+# 👋 Hi, I'm GG Surya  
 
-🚀 **Software Developer | C • C++ • Java • Python | 🌐 Full-Stack & Emerging Tech | 🤖 AI & Cybersecurity Certified ✅**  
+🚀 **Software Developer | C • C++ • Java • Python | 🌐 Full-Stack Explorer | 🤖 AI & Cybersecurity Certified**  
 📍 Paramakudi, Tamil Nadu, India  
 
 ---
 
-## About Me
+## 👨‍💻 About Me  
 
-I am GG Surya, a **B.Sc. Electronics graduate (2022–2025)** with a passion for **software development, IT, and emerging technologies**.  
+I’m **GG Surya**, a passionate **B.Sc. Electronics student (2022–2025)** with strong interest in **software development, full-stack engineering, and emerging technologies**.  
 
-💻 **Programming Expertise:** Hands-on experience in C, C++, Java, Python, and core concepts like **OOP, data structures, and file handling**.  
-
-📚 **Certifications & Achievements:** Completed **12 professional certifications** under the **Naan Mudhalvan Scheme** and **ADCA course**, covering AI, Generative AI, Data Analytics, Cybersecurity, System & Network Administration, Project Management, and Business Analysis.  
-
-✨ **Soft Skills:** Strong **Active Listening** — enhancing collaboration, learning, and professional communication.  
-
-💡 **Key Projects:**  
-- **C Projects:** [Calculator, Temperature Converter, Number Guessing Game, ChatBot, Caesar Cipher, Expense Tracker](https://github.com/ggsurya/C-Projects)  
-- **C++ Projects:** [Student Result Management, Inventory Management, Tic-Tac-Toe, Simple Banking System](https://github.com/ggsurya/Cpp-Projects)  
-- **Java Projects:** [Rock-Paper-Scissors, Quiz App, ATM Simulation, To-Do List, Library Management System](https://github.com/ggsurya/Java-Projects)  
-- **Python Projects:** [Typing Speed Tester, Flashcard Quiz App, Expense Tracker, Password Generator, Weather App](https://github.com/ggsurya/Python-Projects)  
-
-🌐 **Expanding Horizons:**  
-Currently exploring **web development & full-stack technologies**: HTML, CSS, JavaScript, Bootstrap, React, Node.js, MongoDB, MySQL, Spring Boot, while developing portfolio projects to showcase practical, real-world solutions.  
-
-✨ **My Goal:**  
-To become a **versatile IT professional** delivering innovative solutions, staying ahead in the ever-evolving tech landscape, and turning ideas into impactful projects.
+- 💻 Skilled in **C, C++, Java, Python** with solid foundations in **OOP, data structures, and file handling**  
+- 📚 Completed **12+ professional certifications** in AI, Generative AI, Cybersecurity, Data Analytics, System & Network Admin, and Project Management  
+- ⚡ Strong **Active Listening & Communication** skills for effective teamwork and learning  
+- 🌱 Currently building portfolio projects with **React, Node.js, MongoDB, MySQL, Spring Boot**  
+- 🎯 Goal: Become a **versatile IT professional** delivering impactful, real-world tech solutions  
 
 ---
 
-## Education
+## 🛠️ Skills  
+
+**Programming:** C, C++, Java, Python  
+**Web & Full-Stack:** HTML, CSS, JavaScript, Bootstrap, React, Node.js, MongoDB, MySQL, Spring Boot  
+**Tools & Others:** Git, GitHub, Cybersecurity Tools, AI Tools, Data Analytics, Project Management  
+
+---
+
+## 💡 Featured Projects  
+
+### 🔹 C  
+- [**Calculator**](https://github.com/ggsurya/C-Projects) – CLI calculator for arithmetic operations  
+- [**ChatBot**](https://github.com/ggsurya/C-Projects) – Console-based interactive chatbot  
+- [**Expense Tracker**](https://github.com/ggsurya/C-Projects) – Manage expenses with file handling  
+
+### 🔹 C++  
+- [**Student Result Management**](https://github.com/ggsurya/Cpp-Projects) – CRUD operations on student records  
+- [**Inventory Management**](https://github.com/ggsurya/Cpp-Projects) – Stock & product tracking system  
+- [**Tic-Tac-Toe**](https://github.com/ggsurya/Cpp-Projects) – Classic two-player game  
+
+### 🔹 Java  
+- [**ATM Simulation**](https://github.com/ggsurya/Java-Projects) – Simulates ATM transactions (withdraw, deposit, balance check)  
+- [**To-Do List**](https://github.com/ggsurya/Java-Projects) – Task manager with CRUD features  
+- [**Library Management System**](https://github.com/ggsurya/Java-Projects) – Manages books, members & borrow history  
+
+### 🔹 Python  
+- [**Typing Speed Tester**](https://github.com/ggsurya/Python-Projects) – Test typing speed & accuracy  
+- [**Flashcard Quiz App**](https://github.com/ggsurya/Python-Projects) – Study tool with Q&A flashcards  
+- [**Weather App**](https://github.com/ggsurya/Python-Projects) – Fetch real-time weather updates  
+
+---
+
+## 🎓 Education  
 
 **Government Arts College, Paramakudi**  
-Bachelor of Science (B.Sc.), Electronics (Jun 2022 - Apr 2025) | Grade: First Class – 75%  
-- Studied **electronics, microprocessors, and embedded systems**.  
-- Completed **IoT internship** at Phoenix Softech, Madurai — worked on Arduino projects with sensors, automation, and robotics.
+📅 B.Sc. Electronics (Jun 2022 – Apr 2025) | 🎖️ First Class – 75%  
+
+- Studied **electronics, microprocessors & embedded systems**  
+- Completed **IoT Internship** at *Phoenix Softech, Madurai* → Arduino projects, automation & robotics  
 
 ---
 
-## Skills
+## 📜 Certifications  
 
-**Programming Languages:** C, C++, Java, Python  
-**Web & Full-Stack:** HTML, CSS, JavaScript, Bootstrap, React, Node.js, MongoDB, MySQL, Spring Boot  
-**Tools & Others:** Git, GitHub, AI & Cybersecurity tools, Project Management, Data Analytics  
-
----
-
-## Certifications
-
-- **Naan Mudhalvan Scheme:** 11 certifications in AI, Generative AI, Data Analytics, Cybersecurity, System & Network Administration, Project Management, Business Analysis  
-- **ADCA (Advanced Diploma in Computer Applications)** — CSC Computer Education Pvt Ltd  
+- 🎓 **Naan Mudhalvan Scheme** – 11 certifications in AI, Generative AI, Cybersecurity, Data Analytics, Networking, Project Management, Business Analysis  
+- 🎓 **ADCA (Advanced Diploma in Computer Applications)** – CSC Computer Education Pvt Ltd  
 
 ---
 
-## Contact Me
+## 🌐 Connect with Me  
 
-📧 Email: ggsuryaff@gmail.com  
-🔗 GitHub: [https://github.com/ggsurya](https://github.com/ggsurya)  
-🔗 LinkedIn: [www.linkedin.com/in/g-g-surya-5aa9312b4](https://www.linkedin.com/in/g-g-surya-5aa9312b4)
+📧 [Email](mailto:ggsuryaff@gmail.com)  
+🔗 [GitHub](https://github.com/ggsurya)  
+🔗 [LinkedIn](https://www.linkedin.com/in/g-g-surya-5aa9312b4)  
 
 ---
 
-⭐ Feel free to explore my projects and reach out for collaborations or opportunities!
+## 📊 GitHub Insights  
+
+![](https://github-readme-stats.vercel.app/api?username=ggsurya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=ggsurya&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ggsurya&theme=dark&hide_border=false&layout=compact)  
+
+---
+
+## ✨ Quote to Live By  
+
+> "Code is like humor. When you have to explain it, it’s bad."  
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my projects and connect for collaborations or opportunities.*  
