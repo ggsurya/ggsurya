@@ -34,25 +34,13 @@ I’m **GG Surya**, a passionate **B.Sc. Electronics student (2022–2025)** wit
 
 ## 💡 Featured Projects  
 
-### 🔹 C  
-- [**Calculator**](https://github.com/ggsurya/C-Projects) – CLI calculator for arithmetic operations  
-- [**ChatBot**](https://github.com/ggsurya/C-Projects) – Console-based interactive chatbot  
-- [**Expense Tracker**](https://github.com/ggsurya/C-Projects) – Manage expenses with file handling  
+⚡ **C**: 📝 **[Calculator](https://github.com/ggsurya/C-Projects/tree/main/1.%20Simple%20Calculator%20App)**, 🌡️ **[Temperature Converter](https://github.com/ggsurya/C-Projects/tree/main/2.%20Temperature%20Converter)**, 🎲 **[Number Guessing Game](https://github.com/ggsurya/C-Projects/tree/main/3.%20Random%20Number%20Guessing%20Game)**, 🤖 **[ChatBot](https://github.com/ggsurya/C-Projects/tree/main/4.%20Simple%20Chat%20Bot%20Console%20App)**, 🔐 **[Caesar Cipher](https://github.com/ggsurya/C-Projects/tree/main/5.%20File%20Encryption%20Decryption%20Tool)**, 💰 **[Expense Tracker](https://github.com/ggsurya/C-Projects/tree/main/6.%20Basic%20Expense%20Tracker)**  
 
-### 🔹 C++  
-- [**Student Result Management**](https://github.com/ggsurya/Cpp-Projects) – CRUD operations on student records  
-- [**Inventory Management**](https://github.com/ggsurya/Cpp-Projects) – Stock & product tracking system  
-- [**Tic-Tac-Toe**](https://github.com/ggsurya/Cpp-Projects) – Classic two-player game  
+⚡ **C++**: 🎓 **[Student Result Management](https://github.com/ggsurya/Cpp-Projects/tree/main/1.%20Student%20Result%20Management%20System)**, 📦 **[Inventory Management](https://github.com/ggsurya/Cpp-Projects/tree/main/2.%20Inventory%20Management%20System)**, 🎮 **[Tic-Tac-Toe](https://github.com/ggsurya/Cpp-Projects/tree/main/3.%20Tic-Tac-Toe%20Game)**, 🏦 **[Simple Banking System](https://github.com/ggsurya/Cpp-Projects/tree/main/4.%20Simple%20Banking%20System)**  
 
-### 🔹 Java  
-- [**ATM Simulation**](https://github.com/ggsurya/Java-Projects) – Simulates ATM transactions (withdraw, deposit, balance check)  
-- [**To-Do List**](https://github.com/ggsurya/Java-Projects) – Task manager with CRUD features  
-- [**Library Management System**](https://github.com/ggsurya/Java-Projects) – Manages books, members & borrow history  
+☕ **Java**: ✂️ **[Rock-Paper-Scissors](https://github.com/ggsurya/Java-Projects/tree/main/1.%20Rock-Paper-Scissors%20Game)**, ❓ **[Quiz App](https://github.com/ggsurya/Java-Projects/tree/main/2.%20Quiz%20Application)**, 🏧 **[ATM Simulation](https://github.com/ggsurya/Java-Projects/tree/main/3.%20ATM%20Simulation)**, 📝 **[To-Do List](https://github.com/ggsurya/Java-Projects/tree/main/4.%20To-Do%20List%20Application)**, 📚 **[Library Management System](https://github.com/ggsurya/Java-Projects/tree/main/5.%20Library%20Management%20System)**  
 
-### 🔹 Python  
-- [**Typing Speed Tester**](https://github.com/ggsurya/Python-Projects) – Test typing speed & accuracy  
-- [**Flashcard Quiz App**](https://github.com/ggsurya/Python-Projects) – Study tool with Q&A flashcards  
-- [**Weather App**](https://github.com/ggsurya/Python-Projects) – Fetch real-time weather updates  
+🐍 **Python**: ⌨️ **[Typing Speed Tester](https://github.com/ggsurya/Python-Projects/tree/main/1.%20Typing%20Speed%20Tester)**, 🃏 **[Flashcard Quiz App](https://github.com/ggsurya/Python-Projects/tree/main/2.%20Flashcard%20Quiz%20App)**, 💰 **[Expense Tracker](https://github.com/ggsurya/Python-Projects/tree/main/3.%20Expense%20Tracker)**, 🔐 **[Password Generator](https://github.com/ggsurya/Python-Projects/tree/main/4.%20Password%20Generator)**, 🌤️ **[Weather App](https://github.com/ggsurya/Python-Projects/tree/main/5.%20Weather%20API%20(GUI))**
 
 ---
 
