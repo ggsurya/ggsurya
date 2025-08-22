@@ -47,7 +47,7 @@ I’m **GG Surya**, a passionate **B.Sc. Electronics student (2022–2025)** wit
 ## 🎓 Education  
 
 **Government Arts College, Paramakudi**  
-📅 B.Sc. Electronics (Jun 2022 – Apr 2025) | 🎖️ First Class – 75%  
+📅 B.Sc. Electronics (Jun 2022 – Apr 2025) | 🎖️ CGPA: 7.27 / 10 (A++ – First Class, 69.1%)
 
 - Studied **electronics, microprocessors & embedded systems**  
 - Completed **IoT Internship** at *Phoenix Softech, Madurai* → Arduino projects, automation & robotics  
