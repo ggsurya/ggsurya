@@ -17,6 +17,14 @@ I’m **GG Surya**, a passionate **B.Sc. Electronics student (2022–2025)** wit
 
 ---
 
+## 📄 Resume  
+
+🔗 [Download My Resume (PDF)](https://github.com/ggsurya/resume/blob/main/GG_Surya_Resume.pdf)
+
+Looking for opportunities in **Software Development, Full-Stack Engineering, and Emerging Technologies**.
+
+---
+
 ## 🚀 Currently Working On  
 - Building my **personal portfolio website** using React + Node.js  
 - Exploring **AI integration in full-stack projects**  
